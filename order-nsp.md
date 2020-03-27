@@ -98,6 +98,11 @@ The table gives details about the {{site.data.keyword.cloud_notm}} data centers 
 
 |**IBM Location Code** | **Location Type** | **Meet Me Room Operator**| **Operator Site Code** | **Operator Address** |
 |-----------------|-----------------|-----------------|--------------------|--------------------|
+| **APAC** |  |  |  |
+| Sydney 1 | DC(AZ1) | Global Switch | SYD01 |400 Harris Street aka 273 Pyrmont St Ultimo  |
+| Sydney 4 | DC(AZ2) | Digital Realty | SYD10 |1-11 Templar Rd, Erskine Park |
+| Sydney 5 | DC(AZ3) | Equinix | SY4 |200 Bourke Road |
+| Tokyo 3 | PoP | Equinix | TY4 | |
 | **EMEA** |  |  |  |
 | Frankfurt 1 | PoP | InterXion (DLR) | FRA01 | Hanauer Landstrasse 302 |
 | Frankfurt 2 | DC(AZ1) | Zenium | FRA1 | Leonhard - Heisswolf Str 4., Frankfurt am Main |
